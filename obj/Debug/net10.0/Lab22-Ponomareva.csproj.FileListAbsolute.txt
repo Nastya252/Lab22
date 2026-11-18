@@ -12,3 +12,4 @@ C:\Users\Настя\Documents\Lab22-Ponomareva\obj\Debug\net10.0\refint\Lab22-Po
 C:\Users\Настя\Documents\Lab22-Ponomareva\obj\Debug\net10.0\Lab22-Ponomareva.pdb
 C:\Users\Настя\Documents\Lab22-Ponomareva\obj\Debug\net10.0\Lab22-Ponomareva.genruntimeconfig.cache
 C:\Users\Настя\Documents\Lab22-Ponomareva\obj\Debug\net10.0\ref\Lab22-Ponomareva.dll
+C:\Users\Настя\Documents\Lab22-Ponomareva\obj\Debug\net10.0\Lab22-Ponomareva.sourcelink.json
